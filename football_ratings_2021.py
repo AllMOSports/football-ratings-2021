@@ -91,7 +91,6 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "525": "John F. Kennedy with Valley Park",
         "331": "King City with Union Star",
         "342": "Liberal with Bronaugh",
-        "483": "Van-Far with Community",
         "549": "St. Mary's South Side",
         "509": "Bishop DuBourg with Hancock",
         "156": "Paris with Faith Walk",
@@ -99,9 +98,11 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "208": "Sumner with Transportation and Law",
         "195": "Soldan International Studies with Sumner",
         "572": "St. Joseph Christian with Northland Christian",
-        "206": "Vashon with Transportation and Law",
         "430": "Russellville",
         "469": "Sweet Springs with Malta Bend",
+        "156": "Paris with Faith Walk, Madison",
+        "206": "Vashon with Miller Career Academy",
+        "501": "Winfield with Elsberry",
     }
  
     df = pd.read_csv(schools_csv)
