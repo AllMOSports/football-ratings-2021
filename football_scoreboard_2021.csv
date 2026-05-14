@@ -7,7 +7,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Lincoln College Prep,46,Benton,7
 2021-08-27,Lee's Summit North,28,Blue Springs South,10
 2021-08-27,Rolla,36,Bolivar,20
-2021-08-27,Van-Far,6,Bowling Green,60
+2021-08-27,Van-Far with Community,6,Bowling Green,60
 2021-08-27,Bayless,8,Brentwood,14
 2021-08-27,Trenton,12,Brookfield,18
 2021-08-27,Kickapoo,14,Camdenton,22
@@ -20,7 +20,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Mexico,46,Centralia,20
 2021-08-27,Chaffee,20,Crystal City,14
 2021-08-27,Sullivan,54,Cuba,6
-2021-08-27,Seckman,55,DeSoto,0
+2021-08-27,Seckman,55,DeSoto with Kingston,0
 2021-08-27,Scott City,27,Dexter,6
 2021-08-27,Lift for Life Academy Charter,6,Duchesne,14
 2021-08-27,Reeds Spring,49,East Newton,20
@@ -28,7 +28,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Savannah,6,Excelsior Springs,21
 2021-08-27,Mountain Grove,19,Fair Grove,48
 2021-08-27,North County,35,Farmington,12
-2021-08-27,Sweet Springs with Malta Bend,20,Father Tolton,35
+2021-08-27,Sweet Springs with Malta Bend,20,Father Tolton with Calvary Lutheran,35
 2021-08-27,Carrollton,0,Fayette,40
 2021-08-27,Ste. Genevieve,36,Festus,31
 2021-08-27,Central (St. Joseph),21,Fort Osage,61
@@ -43,7 +43,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Smithville,42,Grain Valley,3
 2021-08-27,Truman,14,Grandview,45
 2021-08-27,Principia,6,Grandview (Hillsboro),49
-2021-08-27,"Paris with Faith Walk, Madison",14,Harrisburg,48
 2021-08-27,Thayer,22,Hayti,40
 2021-08-27,Hannibal,54,Helias Catholic,20
 2021-08-27,Montgomery County,31,Hermann,16
@@ -67,7 +66,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Blue Springs,42,Liberty,43
 2021-08-27,West Platte,42,Lone Jack with Kingsville,27
 2021-08-27,North Callaway,40,Louisiana,0
-2021-08-27,Stockton with Sheldon,8,Marionville,36
+2021-08-27,Stockton,8,Marionville,36
 2021-08-27,South Callaway,12,Mark Twain,34
 2021-08-27,Chillicothe,27,Marshall,8
 2021-08-27,Blair Oaks,40,Maryville,6
@@ -76,7 +75,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Princeton with Mercer,6,Mid-Buchanan,49
 2021-08-27,Lincoln,28,Midway,0
 2021-08-27,Cabool,35,Miller,8
-2021-08-27,Russellville,40,Missouri Military Academy,6
+2021-08-27,Sarcoxie,40,Missouri Military Academy,6
 2021-08-27,Smith-Cotton,32,Moberly,12
 2021-08-27,Hollister,42,Monett,27
 2021-08-27,Logan-Rogersville,31,Nevada,52
@@ -118,7 +117,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Liberty (Mountain View),26,Strafford,6
 2021-08-27,St. Michael the Archangel,38,Summit Christian Academy,54
 2021-08-27,University Academy Charter,36,Tipton,32
-2021-08-27,Webster Groves,0,Vashon with Miller Career Academy,42
+2021-08-27,Webster Groves,0,Vashon,42
 2021-08-27,Knob Noster,14,Versailles,21
 2021-08-27,Capital City,13,Warrensburg,46
 2021-08-27,Liberty (Wentzville),28,Warrenton,14
@@ -132,7 +131,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-27,Crest Ridge with Chilhowee,16,Windsor,48
 2021-08-27,Herculaneum,12,Windsor (Imperial),15
 2021-08-27,Clark County,32,Wright City,20
-2021-08-28,John Burroughs,35,Bishop DuBourg with Hancock,0
 2021-08-28,Gateway,31,Clayton,14
 2021-08-28,El Dorado Springs,16,Forsyth,36
 2021-08-28,Hazelwood East,0,Hazelwood Central,48
@@ -140,7 +138,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-08-28,Springfield Catholic,0,Lamar,46
 2021-08-28,McCluer North,18,McCluer,60
 2021-08-28,St. Charles,6,Priory,41
-2021-08-28,Vianney,40,Soldan International Studies with Sumner,42
 2021-08-28,East (Kansas City),0,Van Horn,56
 2021-09-02,Parkway Central,12,Kirkwood,67
 2021-09-02,Webster Groves,14,Parkway South,20
@@ -185,7 +182,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,Maryville,20,Harrisonville,28
 2021-09-03,Portageville,8,Hayti,54
 2021-09-03,Hickman,6,Helias Catholic,41
-2021-09-03,Bishop DuBourg with Hancock,0,Herculaneum,52
 2021-09-03,Missouri Military Academy,0,Highland,61
 2021-09-03,West Plains,69,Hillcrest,7
 2021-09-03,Jackson,42,Hillsboro,0
@@ -217,7 +213,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,South Callaway,6,North Callaway,26
 2021-09-03,Francis Howell North,13,North County,53
 2021-09-03,Maysville with Winston,28,North Platte,8
-2021-09-03,Van Horn,13,Northeast (Kansas City),0
 2021-09-03,Mehlville,26,Northwest (Cedar Hill),46
 2021-09-03,Grain Valley,35,Oak Park,14
 2021-09-03,Seckman,49,Oakville,15
@@ -225,7 +220,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,Moberly,13,Osage,25
 2021-09-03,Washington,42,Pacific,38
 2021-09-03,Bowling Green,45,Palmyra,0
-2021-09-03,Salisbury,28,"Paris with Faith Walk, Madison",20
 2021-09-03,Grandview,0,Park Hill South,40
 2021-09-03,McCluer North,20,Parkway North,81
 2021-09-03,East (Kansas City),0,Pembroke Hill,41
@@ -235,10 +229,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,University Academy Charter,42,Plattsburg,22
 2021-09-03,Benton,19,Pleasant Hill,50
 2021-09-03,Slater,6,Polo,18
-2021-09-03,DeSoto,0,Poplar Bluff,55
+2021-09-03,DeSoto with Kingston,0,Poplar Bluff,55
 2021-09-03,Farmington,23,Potosi,18
 2021-09-03,Midway,34,Princeton with Mercer,16
-2021-09-03,Father Tolton,13,Putnam County,22
+2021-09-03,Father Tolton with Calvary Lutheran,13,Putnam County,22
 2021-09-03,Raytown,48,Raytown South,6
 2021-09-03,Lamar,54,Reeds Spring,13
 2021-09-03,Oak Grove,6,Richmond,52
@@ -257,7 +251,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,McDonald County,45,Springfield Catholic,6
 2021-09-03,St. Michael the Archangel,10,St. Pius X (Kansas City),56
 2021-09-03,Valle Catholic,46,Ste. Genevieve,0
-2021-09-03,Miller,6,Stockton with Sheldon,51
+2021-09-03,Miller,6,Stockton,51
 2021-09-03,Festus,26,Sullivan,12
 2021-09-03,Liberty (Wentzville),12,Timberland,61
 2021-09-03,East Buchanan,42,Trenton,7
@@ -268,17 +262,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,South Harrison,6,West Platte,44
 2021-09-03,South Shelby,30,Westran,40
 2021-09-03,Republic,45,Willard,21
-2021-09-03,Monroe City,46,Winfield with Elsberry,15
 2021-09-03,Truman,7,Winnetonka,45
 2021-09-04,Priory,35,Clark County,6
 2021-09-04,Pattonville,13,Hazelwood Central,41
 2021-09-04,Riverview Gardens,0,Hazelwood East,54
 2021-09-04,Brentwood,20,John Burroughs,61
 2021-09-04,Mark Twain,36,Lexington,6
-2021-09-04,McCluer,38,Soldan International Studies with Sumner,42
 2021-09-04,St. Charles,14,University City,42
-2021-09-04,Wright City,48,Van-Far,32
-2021-09-04,Vianney,7,Vashon with Miller Career Academy,36
+2021-09-04,Wright City,48,Van-Far with Community,32
+2021-09-04,Vianney,7,Vashon,36
 2021-09-04,Clayton,0,Westminster Christian Academy,42
 2021-09-09,Normandy Collaborative,54,Affton,36
 2021-09-09,Hillcrest,0,Glendale,74
@@ -307,7 +299,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,Highland,36,Clark County,0
 2021-09-10,Cole Camp,21,Crest Ridge with Chilhowee,8
 2021-09-10,Owensville,53,Cuba,8
-2021-09-10,North County,43,DeSoto,0
+2021-09-10,North County,43,DeSoto with Kingston,0
 2021-09-10,Central (New Madrid County),56,Dexter,41
 2021-09-10,Lathrop,19,East Buchanan,28
 2021-09-10,Osage,48,Eldon,54
@@ -354,7 +346,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,Warsaw,39,Midway,0
 2021-09-10,Putnam County,6,Milan,49
 2021-09-10,Strafford,48,Miller,8
-2021-09-10,Father Tolton,38,Missouri Military Academy,0
+2021-09-10,Father Tolton with Calvary Lutheran,38,Missouri Military Academy,0
 2021-09-10,Excelsior Springs,34,Moberly,14
 2021-09-10,East Newton,0,Monett,14
 2021-09-10,South Shelby,8,Monroe City,48
@@ -376,9 +368,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,East Prairie,24,Portageville,30
 2021-09-10,Liberty North,42,Raymore-Peculiar,14
 2021-09-10,Mt. Vernon,0,Reeds Spring,42
-2021-09-10,Sweet Springs with Malta Bend,45,Russellville,6
+2021-09-10,Sweet Springs with Malta Bend,45,Sarcoxie,6
 2021-09-10,Kirksville,34,Savannah,28
-2021-09-10,"Paris with Faith Walk, Madison",0,Scotland County,48
 2021-09-10,Northwest (Cedar Hill),21,Seckman,41
 2021-09-10,Hollister,42,Seneca,27
 2021-09-10,Lafayette County,52,Sherwood,6
@@ -395,7 +386,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,Valle Catholic,56,St. Vincent,14
 2021-09-10,Blue Springs,39,Staley,7
 2021-09-10,Kennett,40,Ste. Genevieve,38
-2021-09-10,Ash Grove,36,Stockton with Sheldon,44
+2021-09-10,Ash Grove,36,Stockton,44
 2021-09-10,Union,41,Sullivan,6
 2021-09-10,Liberty (Mountain View),28,Thayer,42
 2021-09-10,Ft. Zumwalt North,40,Timberland,41
@@ -403,14 +394,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,Princeton with Mercer,28,Trenton,57
 2021-09-10,Oak Park,48,Truman,13
 2021-09-10,Winnetonka,35,Van Horn,33
-2021-09-10,Mark Twain,54,Van-Far,14
+2021-09-10,Mark Twain,54,Van-Far with Community,14
 2021-09-10,Kickapoo,39,Waynesville,35
 2021-09-10,Republic,20,Webb City,56
 2021-09-10,Oakville,14,Webster Groves,10
 2021-09-10,Rolla,0,West Plains,41
 2021-09-10,Marionville,24,Westran,0
 2021-09-10,Cabool,15,Willow Springs,13
-2021-09-10,Winfield with Elsberry,63,Wright City,19
 2021-09-11,Northeast (Kansas City),32,Central (Kansas City),28
 2021-09-11,Roosevelt,14,Gateway,36
 2021-09-11,Summit Christian Academy,33,Hogan Prep Academy Charter,8
@@ -420,7 +410,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-11,Westminster Christian Academy,14,MICDS,49
 2021-09-11,Marshall,0,Odessa,49
 2021-09-11,Windsor,44,University Academy Charter,14
-2021-09-11,Soldan International Studies with Sumner,6,Vashon with Miller Career Academy,35
 2021-09-14,East (Kansas City),0,Lincoln College Prep,64
 2021-09-16,Lift for Life Academy Charter,32,Jennings,6
 2021-09-17,Hickman,22,Battle,35
@@ -444,7 +433,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Holden,18,Crest Ridge with Chilhowee,0
 2021-09-17,Louisiana,48,Crystal City,28
 2021-09-17,Chaminade College Prep,7,De Smet Jesuit,33
-2021-09-17,Festus,62,DeSoto,6
+2021-09-17,Festus,62,DeSoto with Kingston,6
 2021-09-17,Central (New Madrid County),44,Doniphan,6
 2021-09-17,Penney,12,East Buchanan,22
 2021-09-17,Seneca,35,East Newton,7
@@ -498,7 +487,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Diamond,35,Miller,12
 2021-09-17,Aurora,26,Mt. Vernon,7
 2021-09-17,Lamar,48,Nevada,22
-2021-09-17,Van-Far,0,North Callaway,56
+2021-09-17,Van-Far with Community,0,North Callaway,56
 2021-09-17,Hillsboro,42,North County,7
 2021-09-17,Platte County,29,North Kansas City,0
 2021-09-17,Plattsburg,22,North Platte,16
@@ -507,7 +496,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Belton,49,Oak Park,28
 2021-09-17,California,36,Osage,34
 2021-09-17,Brookfield,6,Palmyra,23
-2021-09-17,Bayless,22,"Paris with Faith Walk, Madison",44
 2021-09-17,Blue Springs,0,Park Hill,50
 2021-09-17,Riverview Gardens,0,Parkway North,59
 2021-09-17,Parkway Central,0,Parkway West,48
@@ -522,7 +510,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Hillcrest,6,Rolla,56
 2021-09-17,Kearney,35,Ruskin,0
 2021-09-17,Thayer,47,Salem,6
-2021-09-17,Stockton with Sheldon,20,Sarcoxie,28
+2021-09-17,Stockton,20,Sarcoxie,28
 2021-09-17,Portageville,16,Scott City,30
 2021-09-17,Skyline,48,Slater,16
 2021-09-17,Normandy Collaborative,12,SLUH,63
@@ -550,21 +538,18 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Ozark,52,Willard,0
 2021-09-17,Park Hill South,44,William Chrisman,21
 2021-09-17,Mountain Grove,37,Willow Springs,7
-2021-09-17,St. Charles West,0,Winfield with Elsberry,50
-2021-09-18,Vashon with Miller Career Academy,49,Carnahan,12
+2021-09-18,Vashon,49,Carnahan,12
 2021-09-18,Benton,35,Central (Kansas City),8
 2021-09-18,Troy Buchanan,62,Francis Howell Central,14
-2021-09-18,Russellville,0,Grandview (Hillsboro),62
+2021-09-18,Sarcoxie,0,Grandview (Hillsboro),62
 2021-09-18,Seckman,13,Hazelwood Central,46
 2021-09-18,Rockwood Summit,37,Hazelwood East,8
 2021-09-18,Cardinal Ritter,20,Lincoln College Prep,28
 2021-09-18,Windsor (Imperial),18,Northeast (Kansas City),6
 2021-09-18,MICDS,42,Priory,7
-2021-09-18,Soldan International Studies with Sumner,46,Roosevelt,6
 2021-09-18,McCluer,80,University City,38
 2021-09-18,Lutheran North,52,Westminster Christian Academy,7
 2021-09-20,Affton,12,Clayton,33
-2021-09-23,Jennings,60,Bishop DuBourg with Hancock,0
 2021-09-23,Van Horn,13,Lincoln College Prep,41
 2021-09-23,Hollister,26,Reeds Spring,20
 2021-09-24,Warsaw,37,Adrian,13
@@ -573,7 +558,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Salem,6,Ava,45
 2021-09-24,Poplar Bluff,26,Battle,22
 2021-09-24,Fort Osage,31,Belton,3
-2021-09-24,Jennings,60,Bishop DuBourg with Hancock,0
 2021-09-24,Liberty North,42,Blue Springs,7
 2021-09-24,Camdenton,49,Bolivar,42
 2021-09-24,Carthage,42,Branson,14
@@ -594,7 +578,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Marshfield,28,East Newton,15
 2021-09-24,Summit Christian Academy,41,El Dorado Springs,0
 2021-09-24,Southern Boone,58,Eldon,50
-2021-09-24,Grandview (Hillsboro),27,Father Tolton,28
+2021-09-24,Grandview (Hillsboro),27,Father Tolton with Calvary Lutheran,28
 2021-09-24,Westran,23,Fayette,44
 2021-09-24,Liberty (Wentzville),28,Francis Howell North,6
 2021-09-24,Ste. Genevieve,55,Fredericktown,33
@@ -630,7 +614,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Mt. Vernon,15,Logan-Rogersville,42
 2021-09-24,Tipton,41,Lone Jack with Kingsville,7
 2021-09-24,Lutheran South,0,Lutheran North,58
-2021-09-24,"Paris with Faith Walk, Madison",8,Marceline,46
 2021-09-24,Diamond,0,Marionville,44
 2021-09-24,Bowling Green,28,Mark Twain,14
 2021-09-24,Pattonville,7,Marquette,42
@@ -646,7 +629,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Cabool,6,Mountain Grove,49
 2021-09-24,Parkway South,0,Oakville,14
 2021-09-24,Pleasant Hill,24,Odessa,27
-2021-09-24,Winfield with Elsberry,20,Orchard Farm,41
 2021-09-24,Hallsville,28,Osage,0
 2021-09-24,Republic,48,Ozark,28
 2021-09-24,Sullivan,55,Pacific,26
@@ -667,7 +649,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Lafayette County,35,Richmond,26
 2021-09-24,Helias Catholic,34,Rock Bridge,13
 2021-09-24,Parkway North,7,Rockwood Summit,34
-2021-09-24,Hogan Prep Academy Charter,35,Russellville,21
+2021-09-24,Hogan Prep Academy Charter,35,Sarcoxie,21
 2021-09-24,Central (Springfield),27,Sarcoxie,8
 2021-09-24,Benton,0,Savannah,27
 2021-09-24,Salisbury,14,Scotland County,52
@@ -682,7 +664,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Lutheran St. Charles,12,St. Mary's South Side,53
 2021-09-24,Perryville,0,St. Vincent,36
 2021-09-24,North Kansas City,10,Staley,8
-2021-09-24,Fair Grove,56,Stockton with Sheldon,28
+2021-09-24,Fair Grove,56,Stockton,28
 2021-09-24,North Callaway,14,Strafford,48
 2021-09-24,Harrisburg,20,Sweet Springs with Malta Bend,16
 2021-09-24,Houston,14,Thayer,40
@@ -691,7 +673,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,William Chrisman,50,Truman,0
 2021-09-24,St. Clair,0,Union,35
 2021-09-24,St. Francis Borgia,0,Valle Catholic,42
-2021-09-24,Louisiana,41,Van-Far,6
+2021-09-24,Louisiana,41,Van-Far with Community,6
 2021-09-24,Blair Oaks,52,Versailles,17
 2021-09-24,De Smet Jesuit,49,Vianney,0
 2021-09-24,Ft. Zumwalt South,38,Washington,35
@@ -700,7 +682,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Kickapoo,10,West Plains,40
 2021-09-24,East Buchanan,21,West Platte,20
 2021-09-24,South Callaway,7,Windsor,46
-2021-09-24,DeSoto,16,Windsor (Imperial),24
+2021-09-24,DeSoto with Kingston,16,Windsor (Imperial),24
 2021-09-24,Ruskin,13,Winnetonka,26
 2021-09-24,Montgomery County,42,Wright City,26
 2021-09-25,St. Michael the Archangel,45,Central (Kansas City),8
@@ -712,8 +694,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-25,University City,18,Normandy Collaborative,10
 2021-09-25,Westminster Christian Academy,22,Priory,36
 2021-09-25,Ladue Horton Watkins,35,Ritenour,0
-2021-09-25,Vashon with Miller Career Academy,48,Roosevelt,6
-2021-10-01,Vashon with Miller Career Academy,49,Affton,0
+2021-09-25,Vashon,48,Roosevelt,6
+2021-10-01,Vashon,49,Affton,0
 2021-10-01,St. Vincent,59,Bayless,0
 2021-10-01,Raytown,43,Belton,13
 2021-10-01,Maryville,47,Benton,12
@@ -739,7 +721,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Lafayette (St. Joseph),35,Chillicothe,34
 2021-10-01,Adrian,21,Crest Ridge with Chilhowee,14
 2021-10-01,Sherwood,8,Crystal City,22
-2021-10-01,Fredericktown,28,DeSoto,7
+2021-10-01,Fredericktown,28,DeSoto with Kingston,7
 2021-10-01,Caruthersville,0,Dexter,26
 2021-10-01,St. Francis Borgia,14,Duchesne,37
 2021-10-01,Plattsburg,20,East Buchanan,44
@@ -747,7 +729,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Ritenour,13,Eureka,50
 2021-10-01,Strafford,20,Fair Grove,58
 2021-10-01,Poplar Bluff,42,Farmington,49
-2021-10-01,Stockton with Sheldon,22,Forsyth,30
+2021-10-01,Stockton,22,Forsyth,30
 2021-10-01,Mehlville,6,Fox,21
 2021-10-01,Holt,42,Francis Howell,32
 2021-10-01,Ft. Zumwalt North,62,Francis Howell North,14
@@ -759,7 +741,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Fort Osage,9,Grain Valley,8
 2021-10-01,Herculaneum,14,Grandview (Hillsboro),35
 2021-10-01,Kirksville,0,Hannibal,41
-2021-10-01,Russellville,6,Harrisburg,46
+2021-10-01,Sarcoxie,6,Harrisburg,46
 2021-10-01,Capital City,0,Helias Catholic,31
 2021-10-01,Windsor (Imperial),0,Hillsboro,53
 2021-10-01,Ava,42,Houston,7
@@ -779,7 +761,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Midway,45,Lone Jack with Kingsville,0
 2021-10-01,Missouri Military Academy,0,Louisiana,65
 2021-10-01,MICDS,57,Lutheran North,37
-2021-10-01,Bishop DuBourg with Hancock,0,Lutheran St. Charles,56
 2021-10-01,South Shelby,26,Macon,42
 2021-10-01,East Prairie,6,Malden,44
 2021-10-01,Northeast (Kansas City),16,Marceline,35
@@ -798,7 +779,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,St. Charles West,38,Orchard Farm,28
 2021-10-01,Pacific,42,Owensville,57
 2021-10-01,Clark County,0,Palmyra,41
-2021-10-01,Fayette,60,"Paris with Faith Walk, Madison",30
 2021-10-01,Staley,7,Park Hill South,22
 2021-10-01,Glendale,34,Parkview,6
 2021-10-01,Hazelwood East,50,Parkway North,56
@@ -815,7 +795,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Lee's Summit West,10,Rockhurst,21
 2021-10-01,Platte County,62,Ruskin,0
 2021-10-01,Willow Springs,12,Salem,30
-2021-10-01,Father Tolton,28,Salisbury,22
+2021-10-01,Father Tolton with Calvary Lutheran,28,Salisbury,22
 2021-10-01,Miller,8,Sarcoxie,49
 2021-10-01,Ladue Horton Watkins,35,Seckman,27
 2021-10-01,Central (Cape Girardeau),14,Sikeston,12
@@ -837,7 +817,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Polo,30,Trenton,20
 2021-10-01,Jefferson (Festus),0,Valle Catholic,56
 2021-10-01,Truman,6,Van Horn,49
-2021-10-01,South Callaway,35,Van-Far,0
+2021-10-01,South Callaway,35,Van-Far with Community,0
 2021-10-01,Odessa,40,Warrensburg,0
 2021-10-01,Union,48,Warrenton,6
 2021-10-01,Bolivar,24,Waynesville,20
@@ -845,7 +825,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Lathrop,7,West Platte,14
 2021-10-01,Scotland County,12,Westran,22
 2021-10-01,Wellington-Napoleon,13,Windsor,48
-2021-10-01,St. Charles,28,Winfield with Elsberry,70
 2021-10-01,Kearney,42,Winnetonka,14
 2021-10-01,Mark Twain,52,Wright City,7
 2021-10-02,Harrisonville,6,Center,56
@@ -867,7 +846,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Thayer,13,Ava,35
 2021-10-08,Herculaneum,60,Bayless,30
 2021-10-08,St. Pius X (Kansas City),63,Benton,7
-2021-10-08,Duchesne,50,Bishop DuBourg with Hancock,6
 2021-10-08,Versailles,17,Boonville,47
 2021-10-08,Fair Grove,59,Buffalo,31
 2021-10-08,Liberty (Mountain View),42,Cabool,28
@@ -886,14 +864,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Principia,8,Crystal City,50
 2021-10-08,South Callaway,36,Cuba,22
 2021-10-08,Rockhurst,14,De Smet Jesuit,28
-2021-10-08,Stockton with Sheldon,27,Diamond,14
+2021-10-08,Stockton,27,Diamond,14
 2021-10-08,Northeast (Kansas City),28,East (Kansas City),0
 2021-10-08,Nevada,46,East Newton,6
 2021-10-08,Doniphan,32,East Prairie,12
 2021-10-08,California,35,Eldon,28
 2021-10-08,Oak Grove,54,Excelsior Springs,28
 2021-10-08,Jackson,55,Farmington,0
-2021-10-08,Hogan Prep Academy Charter,44,Father Tolton,8
+2021-10-08,Hogan Prep Academy Charter,44,Father Tolton with Calvary Lutheran,8
 2021-10-08,Harrisburg,26,Fayette,42
 2021-10-08,Pacific,32,Festus,35
 2021-10-08,Blue Springs South,21,Fort Osage,35
@@ -908,7 +886,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Raymore-Peculiar,35,Hickman,3
 2021-10-08,Palmyra,20,Highland,24
 2021-10-08,Bolivar,48,Hillcrest,7
-2021-10-08,DeSoto,0,Hillsboro,47
+2021-10-08,DeSoto with Kingston,0,Hillsboro,47
 2021-10-08,Richmond,38,Holden,2
 2021-10-08,Troy Buchanan,24,Holt,28
 2021-10-08,Grandview (Hillsboro),0,Jefferson (Festus),49
@@ -965,7 +943,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Battle,26,Rock Bridge,14
 2021-10-08,McCluer North,0,Rockwood Summit,63
 2021-10-08,Waynesville,26,Rolla,67
-2021-10-08,"Paris with Faith Walk, Madison",28,Russellville,34
 2021-10-08,Mountain Grove,20,Salem,13
 2021-10-08,Marionville,62,Sarcoxie,24
 2021-10-08,Chillicothe,19,Savannah,13
@@ -989,7 +966,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Belton,60,Truman,19
 2021-10-08,Owensville,26,Union,28
 2021-10-08,SLUH,55,Vianney,6
-2021-10-08,Winfield with Elsberry,43,Warrenton,28
 2021-10-08,Butler,28,Warsaw,22
 2021-10-08,Francis Howell North,7,Washington,34
 2021-10-08,Seckman,48,Webster Groves,21
@@ -1042,7 +1018,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Slater,14,Cole Camp,40
 2021-10-15,Missouri Military Academy,0,Crystal City,52
 2021-10-15,SLUH,21,De Smet Jesuit,48
-2021-10-15,Ste. Genevieve,55,DeSoto,15
+2021-10-15,Ste. Genevieve,55,DeSoto with Kingston,15
 2021-10-15,Sarcoxie,14,Diamond,28
 2021-10-15,Fredericktown,34,Doniphan,28
 2021-10-15,Chillicothe,62,East (Kansas City),0
@@ -1051,7 +1027,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Boonville,50,Eldon,22
 2021-10-15,Mehlville,0,Eureka,40
 2021-10-15,Clever,7,Fair Grove,55
-2021-10-15,Cuba,20,Father Tolton,33
+2021-10-15,Cuba,20,Father Tolton with Calvary Lutheran,33
 2021-10-15,Farmington,28,Festus,20
 2021-10-15,Holt,54,Francis Howell Central,6
 2021-10-15,Washington,47,Ft. Zumwalt East,18
@@ -1066,7 +1042,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Marshall,0,Hannibal,55
 2021-10-15,Scotland County,30,Harrisburg,34
 2021-10-15,Malden,6,Hayti,72
-2021-10-15,"Paris with Faith Walk, Madison",8,Herculaneum,20
 2021-10-15,Rock Bridge,28,Hickman,7
 2021-10-15,Mt. Vernon,0,Hollister,38
 2021-10-15,Chaffee,0,Jefferson (Festus),54
@@ -1094,7 +1069,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Pierce City,20,Miller,34
 2021-10-15,Springfield Catholic,17,Monett,24
 2021-10-15,Clark County,16,Monroe City,58
-2021-10-15,Van-Far,8,Montgomery County,38
+2021-10-15,Van-Far with Community,8,Montgomery County,38
 2021-10-15,Willard,14,Neosho,21
 2021-10-15,McDonald County,39,Nevada,34
 2021-10-15,Oak Park,21,North Kansas City,9
@@ -1122,7 +1097,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Lebanon,20,Rolla,28
 2021-10-15,Fayette,44,Salisbury,12
 2021-10-15,Fox,13,Seckman,20
-2021-10-15,Russellville,7,Sherwood,28
+2021-10-15,Sarcoxie,7,Sherwood,28
 2021-10-15,Warsaw,30,Skyline,29
 2021-10-15,Helias Catholic,35,Smith-Cotton,3
 2021-10-15,Bowling Green,62,South Callaway,14
@@ -1134,12 +1109,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Hogan Prep Academy Charter,16,St. Michael the Archangel,41
 2021-10-15,Bayless,14,St. Pius X (Festus),37
 2021-10-15,Central (St. Joseph),6,Staley,54
-2021-10-15,Strafford,27,Stockton with Sheldon,6
+2021-10-15,Strafford,27,Stockton,6
 2021-10-15,Francis Howell,56,Timberland,38
 2021-10-15,Fort Osage,51,Truman,0
 2021-10-15,Westminster Christian Academy,14,Valle Catholic,51
 2021-10-15,Osage,34,Versailles,24
-2021-10-15,Bishop DuBourg with Hancock,0,Vianney,42
 2021-10-15,Summit Christian Academy,21,Warrensburg,20
 2021-10-15,West Plains,56,Waynesville,0
 2021-10-15,Ozark,48,Webb City,63
@@ -1148,11 +1122,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Belton,42,William Chrisman,28
 2021-10-15,Thayer,37,Willow Springs,0
 2021-10-15,Sweet Springs with Malta Bend,33,Windsor (Imperial),13
-2021-10-15,Duchesne,62,Winfield with Elsberry,0
 2021-10-15,Capital City,20,Winnetonka,47
 2021-10-15,Louisiana,26,Wright City,15
 2021-10-16,Troy Buchanan,56,Ft. Zumwalt West,21
-2021-10-16,Vashon with Miller Career Academy,27,Gateway,0
+2021-10-16,Vashon,27,Gateway,0
 2021-10-16,Lindbergh,21,Hazelwood Central,14
 2021-10-16,Hazelwood West,6,Hazelwood East,20
 2021-10-16,Kirkwood,55,McCluer North,0
@@ -1164,7 +1137,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-21,Central (New Madrid County),64,Charleston,8
 2021-10-21,Sullivan,0,North County,37
 2021-10-21,Doniphan,6,Scott City,42
-2021-10-21,Pierce City,0,Stockton with Sheldon,42
+2021-10-21,Pierce City,0,Stockton,42
 2021-10-21,Skyline,27,Strafford,6
 2021-10-21,Francis Howell Central,21,Washington,35
 2021-10-21,Ava,51,Willow Springs,14
@@ -1195,7 +1168,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-22,Kirkwood,30,Eureka,29
 2021-10-22,El Dorado Springs,6,Fair Grove,54
 2021-10-22,Central (Park Hills),49,Farmington,14
-2021-10-22,Father Tolton,24,Fayette,66
+2021-10-22,Father Tolton with Calvary Lutheran,24,Fayette,66
 2021-10-22,St. Charles West,7,Festus,49
 2021-10-22,William Chrisman,14,Fort Osage,49
 2021-10-22,Ladue Horton Watkins,40,Fox,7
@@ -1253,7 +1226,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-22,Excelsior Springs,41,Pleasant Hill,40
 2021-10-22,Hillsboro,45,Poplar Bluff,19
 2021-10-22,Crystal City,22,Portageville,52
-2021-10-22,DeSoto,0,Potosi,48
+2021-10-22,DeSoto with Kingston,0,Potosi,48
 2021-10-22,Gallatin,48,Princeton with Mercer,8
 2021-10-22,Polo,16,Putnam County,20
 2021-10-22,Truman,7,Raytown,56
@@ -1264,11 +1237,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-22,Blue Springs,3,Rockhurst,10
 2021-10-22,Riverview Gardens,0,Rockwood Summit,57
 2021-10-22,Raytown South,24,Ruskin,26
-2021-10-22,Van-Far,24,Scotland County,58
+2021-10-22,Van-Far with Community,24,Scotland County,58
 2021-10-22,Monett,21,Seneca,26
 2021-10-22,Kennett,56,Sikeston,5
 2021-10-22,Diamond,48,Slater,26
-2021-10-22,Lutheran North,58,Soldan International Studies with Sumner,6
 2021-10-22,Wright City,8,South Callaway,27
 2021-10-22,Trenton,24,South Harrison,25
 2021-10-22,Brookfield,14,South Shelby,28
@@ -1295,9 +1267,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-22,Mehlville,27,Webster Groves,0
 2021-10-22,Adrian,41,Wellington-Napoleon,15
 2021-10-22,Mid-Buchanan,28,West Platte,12
-2021-10-22,"Paris with Faith Walk, Madison",0,Westran,35
 2021-10-22,Webb City,55,Willard,0
-2021-10-22,Lift for Life Academy Charter,38,Winfield with Elsberry,0
 2021-10-22,Smithville,42,Winnetonka,7
 2021-10-23,Marquette,35,Hazelwood Central,26
 2021-10-23,Smith-Cotton,20,Hogan Prep Academy Charter,14
@@ -1306,21 +1276,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-23,Parkway Central,28,McCluer North,14
 2021-10-23,Chaminade College Prep,34,MICDS,56
 2021-10-23,Lutheran St. Charles,72,Priory,34
-2021-10-23,Bishop DuBourg with Hancock,8,Roosevelt,46
-2021-10-23,De Smet Jesuit,42,Vashon with Miller Career Academy,7
+2021-10-23,De Smet Jesuit,42,Vashon,7
 2021-10-29,Chaffee,8,Hayti,68
 2021-10-29,Caruthersville,26,Portageville,20
 2021-10-29,Charleston,8,St. Vincent,43
 2021-10-29,Malden,6,Scott City,48
-2021-10-29,Van-Far,16,Monroe City,70
+2021-10-29,Van-Far with Community,16,Monroe City,70
 2021-10-29,Louisiana,36,Brentwood,38
 2021-10-29,Crystal City,0,St. Pius X (Festus),35
 2021-10-29,Slater,24,Fayette,66
-2021-10-29,Father Tolton,16,Harrisburg,28
-2021-10-29,Russellville,29,Sweet Springs with Malta Bend,55
+2021-10-29,Father Tolton with Calvary Lutheran,16,Harrisburg,28
+2021-10-29,Sarcoxie,29,Sweet Springs with Malta Bend,55
 2021-10-29,Tipton,14,South Callaway,38
 2021-10-29,South Shelby,32,Scotland County,26
-2021-10-29,"Paris with Faith Walk, Madison",0,Highland,60
 2021-10-29,Salisbury,12,Westran,29
 2021-10-29,Pierce City,6,Marionville,44
 2021-10-29,Sarcoxie,28,Diamond,13
@@ -1337,7 +1305,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Wellington-Napoleon,0,West Platte,39
 2021-10-29,Plattsburg,6,Mid-Buchanan,56
 2021-10-29,Carrollton,0,East Buchanan,42
-2021-10-29,Mark Twain,13,Principia,0
 2021-10-29,Kelly,22,Jefferson (Festus),21
 2021-10-29,St. Francis Borgia,6,Hermann,27
 2021-10-29,Cuba,14,Grandview (Hillsboro),28
@@ -1352,12 +1319,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Willow Springs,7,Liberty (Mountain View),44
 2021-10-29,El Dorado Springs,6,East Newton,41
 2021-10-29,Clever,0,Fair Grove,48
-2021-10-29,Mt. Vernon,11,Stockton with Sheldon,0
+2021-10-29,Mt. Vernon,11,Stockton,0
 2021-10-29,Trenton,28,Brookfield,6
 2021-10-29,Clark County,6,Macon,42
 2021-10-29,Lawson,36,Pembroke Hill,35
 2021-10-29,Lexington,20,St. Michael the Archangel,45
-2021-10-29,Lift for Life Academy Charter,13,East Prairie,0
 2021-10-29,Fredericktown,7,Potosi,21
 2021-10-29,Doniphan,6,Dexter,53
 2021-10-29,Roosevelt,12,Herculaneum,30
@@ -1368,16 +1334,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Buffalo,16,Seneca,40
 2021-10-29,Reeds Spring,20,Hollister,12
 2021-10-29,Cassville,7,Mountain Grove,21
-2021-10-29,Winfield with Elsberry,7,Orchard Farm,21
 2021-10-29,Westminster Christian Academy,14,Sullivan,21
 2021-10-29,St. James,13,St. Clair,12
 2021-10-29,Pleasant Hill,55,Oak Grove,36
 2021-10-29,Northeast (Kansas City),26,Cameron,48
 2021-10-29,Central (Kansas City),0,Chillicothe,55
 2021-10-29,Benton,13,Savannah,31
-2021-10-29,Cardinal Ritter,13,Wright City,0
 2021-10-29,Sikeston,6,Festus,48
-2021-10-29,DeSoto,14,North County,55
+2021-10-29,DeSoto with Kingston,14,North County,55
 2021-10-29,Perryville,0,Farmington,49
 2021-10-29,Windsor (Imperial),16,Gateway,30
 2021-10-29,Affton,0,Pacific,81
@@ -1394,7 +1358,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Warrensburg,14,Bolivar,31
 2021-10-29,Winnetonka,13,Kearney,35
 2021-10-29,Van Horn,15,Excelsior Springs,30
-2021-10-29,Hazelwood East,13,St. Charles,0
 2021-10-29,Mehlville,38,Fox,12
 2021-10-29,Central (Cape Girardeau),0,Seckman,25
 2021-10-29,Oakville,7,Poplar Bluff,42
@@ -1437,7 +1400,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-30,Lathrop,24,Hogan Prep Academy Charter,6
 2021-10-30,St. Charles West,30,Normandy Collaborative,20
 2021-10-30,Salem,32,Priory,34
-2021-10-30,John Burroughs,14,Soldan International Studies with Sumner,18
 2021-10-30,Parkway Central,6,University City,36
 2021-10-30,Rockhurst,13,Park Hill,21
 2021-11-05,Caruthersville,13,Hayti,52
@@ -1487,7 +1449,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-11-05,Savannah,0,Chillicothe,42
 2021-11-05,Festus,7,Hillsboro,13
 2021-11-05,Farmington,20,North County,56
-2021-11-05,Gateway,8,Vashon with Miller Career Academy,49
+2021-11-05,Gateway,8,Vashon,49
 2021-11-05,Pacific,8,Union,56
 2021-11-05,Warrenton,6,Hannibal,76
 2021-11-05,Kirksville,19,Jefferson City,61
@@ -1526,7 +1488,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-11-06,West Platte,9,University Academy Charter,32
 2021-11-06,Carnahan,12,Lift for Life Academy Charter,54
 2021-11-06,Priory,52,St. James,14
-2021-11-06,Soldan International Studies with Sumner,20,MICDS,61
 2021-11-06,St. Dominic,43,McCluer,36
 2021-11-12,Scott City,15,Hayti,48
 2021-11-12,Mark Twain,0,Monroe City,52
@@ -1552,7 +1513,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-11-12,Summit Christian Academy,29,Pleasant Hill,33
 2021-11-12,Chillicothe,6,St. Pius X (Kansas City),31
 2021-11-12,North County,24,Hillsboro,0
-2021-11-12,Union,22,Vashon with Miller Career Academy,28
+2021-11-12,Union,22,Vashon,28
 2021-11-12,Jefferson City,0,Hannibal,47
 2021-11-12,McDonald County,7,West Plains,42
 2021-11-12,Hazelwood East,21,St. Dominic,42
@@ -1591,7 +1552,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-11-20,Richmond,49,Maryville,23
 2021-11-20,Seneca,7,Mexico,20
 2021-11-20,Owensville,6,Cardinal Ritter,48
-2021-11-20,Vashon with Miller Career Academy,24,North County,49
+2021-11-20,Vashon,24,North County,49
 2021-11-20,St. Dominic,20,MICDS,22
 2021-11-20,Liberty North,35,Troy Buchanan,21
 2021-11-25,Webster Groves,0,Kirkwood,65
