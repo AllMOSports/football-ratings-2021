@@ -31,12 +31,6 @@ COMPETITIVE_THRESHOLD = 40
 # Team names must match exactly the names in classifications.json.
  
 MANUAL_GAMES = [
-    ("2021-09-07", "Cardinal Ritter", 27, "Lutheran North", 13),
-    ("2021-09-13", "Cardinal Ritter", 53, "St. Dominic", 14),
-    ("2021-09-21", "Cardinal Ritter", 48, "Helias Catholic", 14),
-    ("2021-09-27", "Cardinal Ritter", 70, "Father Tolton", 14),
-    ("2021-10-04", "Cardinal Ritter", 46, "St. Mary's South Side", 20),
-    ("2021-10-11", "Cardinal Ritter", 54, "St. Francis Borgia", 8),
 ]
  
 # ---------------------------------------------------------------------------
@@ -47,10 +41,11 @@ MANUAL_GAMES = [
 # Team order does not matter — both directions are checked.
  
 EXCLUDED_GAMES = [
-    ("2021-08-30", "Bishop DuBourg with Hancock", "Jefferson (Festus)"),
-    ("2021-08-30", "Ladue Horton Watkins", "Ritenour"),
-    ("2021-11-01", "Lincoln", "Pleasant Hope"),
-    ("2021-11-01", "Duchesne", "Cardinal Ritter"),
+    ("2021-09-03", "Van Horn", "Northeast (Kansas City)"),
+    ("2021-10-29", "Mark Twain", "Principia"),
+    ("2021-10-29", "Lift for Life Academy Charter", "East Prairie"),
+    ("2021-10-29", "Cardinal Ritter", "Wright City"),
+    ("2021-10-29", "Hazelwood East", "St. Charles"),
 ]
  
 HEADERS = {
