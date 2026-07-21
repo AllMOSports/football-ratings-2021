@@ -212,7 +212,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-03,Webb City,49,Neosho,20
 2021-09-03,South Callaway,6,North Callaway,26
 2021-09-03,Francis Howell North,13,North County,53
-2021-09-03,Maysville with Winston,28,North Platte,8
+2021-09-03,Van Horn,13,Northeast (Kansas City),0
 2021-09-03,Mehlville,26,Northwest (Cedar Hill),46
 2021-09-03,Grain Valley,35,Oak Park,14
 2021-09-03,Seckman,49,Oakville,15
@@ -339,7 +339,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-10,Charleston,14,Malden,49
 2021-09-10,Parkway North,6,Marquette,35
 2021-09-10,Springfield Catholic,7,Marshfield,41
-2021-09-10,Polo,17,Maysville with Winston,11
 2021-09-10,Parkway South,14,Mehlville,35
 2021-09-10,Orchard Farm,6,Mexico,42
 2021-09-10,Lawson,0,Mid-Buchanan,36
@@ -517,7 +516,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-17,Jefferson City,49,Smith-Cotton,0
 2021-09-17,Raytown South,14,Smithville,51
 2021-09-17,Montgomery County,28,South Callaway,41
-2021-09-17,Maysville with Winston,0,South Harrison,14
 2021-09-17,Clark County,20,South Shelby,35
 2021-09-17,Versailles,20,Southern Boone,24
 2021-09-17,Reeds Spring,62,Springfield Catholic,28
@@ -618,7 +616,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-09-24,Bowling Green,28,Mark Twain,14
 2021-09-24,Pattonville,7,Marquette,42
 2021-09-24,Cameron,0,Maryville,52
-2021-09-24,Gallatin,26,Maysville with Winston,20
 2021-09-24,Hannibal,48,Mexico,21
 2021-09-24,North Platte,6,Mid-Buchanan,62
 2021-09-24,Crest Ridge with Chilhowee,14,Midway,18
@@ -788,7 +785,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-01,Potosi,28,Perryville,0
 2021-10-01,Marionville,50,Pierce City,14
 2021-10-01,Chaffee,0,Portageville,56
-2021-10-01,Maysville with Winston,45,Princeton with Mercer,22
 2021-10-01,Brentwood,48,Principia,0
 2021-10-01,William Chrisman,40,Raytown South,6
 2021-10-01,Joplin,45,Republic,14
@@ -962,7 +958,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-08,Van Horn,28,Summit Christian Academy,32
 2021-10-08,Westran,12,Sweet Springs with Malta Bend,14
 2021-10-08,Ft. Zumwalt West,42,Timberland,49
-2021-10-08,Maysville with Winston,8,Trenton,34
 2021-10-08,Belton,60,Truman,19
 2021-10-08,Owensville,26,Union,28
 2021-10-08,SLUH,55,Vianney,6
@@ -1064,7 +1059,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-15,Oakville,0,Marquette,51
 2021-10-15,Logan-Rogersville,57,Marshfield,28
 2021-10-15,Savannah,0,Maryville,42
-2021-10-15,Putnam County,8,Maysville with Winston,51
 2021-10-15,Moberly,14,Mexico,41
 2021-10-15,Pierce City,20,Miller,34
 2021-10-15,Springfield Catholic,17,Monett,24
@@ -1205,7 +1199,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-22,Lafayette (St. Joseph),6,Maryville,36
 2021-10-22,Cassville,0,McDonald County,20
 2021-10-22,Sherwood,20,Midway,53
-2021-10-22,Maysville with Winston,12,Milan,28
 2021-10-22,Salisbury,50,Missouri Military Academy,0
 2021-10-22,Thayer,14,Mountain Grove,21
 2021-10-22,Marshfield,26,Mt. Vernon,14
@@ -1301,10 +1294,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Princeton with Mercer,6,Penney,48
 2021-10-29,Polo,6,South Harrison,7
 2021-10-29,Putnam County,16,Gallatin,48
-2021-10-29,Maysville with Winston,6,Milan,20
 2021-10-29,Wellington-Napoleon,0,West Platte,39
 2021-10-29,Plattsburg,6,Mid-Buchanan,56
 2021-10-29,Carrollton,0,East Buchanan,42
+2021-10-29,Mark Twain,13,Principia,0
 2021-10-29,Kelly,22,Jefferson (Festus),21
 2021-10-29,St. Francis Borgia,6,Hermann,27
 2021-10-29,Cuba,14,Grandview (Hillsboro),28
@@ -1324,6 +1317,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Clark County,6,Macon,42
 2021-10-29,Lawson,36,Pembroke Hill,35
 2021-10-29,Lexington,20,St. Michael the Archangel,45
+2021-10-29,Lift for Life Academy Charter,13,East Prairie,0
 2021-10-29,Fredericktown,7,Potosi,21
 2021-10-29,Doniphan,6,Dexter,53
 2021-10-29,Roosevelt,12,Herculaneum,30
@@ -1340,6 +1334,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Northeast (Kansas City),26,Cameron,48
 2021-10-29,Central (Kansas City),0,Chillicothe,55
 2021-10-29,Benton,13,Savannah,31
+2021-10-29,Cardinal Ritter,13,Wright City,0
 2021-10-29,Sikeston,6,Festus,48
 2021-10-29,DeSoto with Kingston,14,North County,55
 2021-10-29,Perryville,0,Farmington,49
@@ -1358,6 +1353,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2021-10-29,Warrensburg,14,Bolivar,31
 2021-10-29,Winnetonka,13,Kearney,35
 2021-10-29,Van Horn,15,Excelsior Springs,30
+2021-10-29,Hazelwood East,13,St. Charles,0
 2021-10-29,Mehlville,38,Fox,12
 2021-10-29,Central (Cape Girardeau),0,Seckman,25
 2021-10-29,Oakville,7,Poplar Bluff,42
